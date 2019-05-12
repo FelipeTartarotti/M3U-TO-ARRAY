@@ -14,23 +14,21 @@ JSON
 [
   {
     "id": 1,
-    "tvtitle": "Newsmax TV",
-    "tvmedia": "http://nmxlive.akamaized.net/hls/live/529965/Live_1/index.m3u8",
-    "tvname": "Newsmax TV",
-    "tvlanguage": "English",
-    "tvcountry": "US",
-    "tvid": "Newsmax-TV",
-    "tvlogo": "http://i.imgur.com/Twkovic.gif",
-    "tvgroup": "Entertainment"
+    "tvtitle": "Power Couple Brasil FHD",
+    "tvmedia": "http:\/\/psrv.io:80\/live\/Felipe\/vvoYEf9UFn\/22121.m3u8",
+    "tvid": "",
+    "tvname": "Power Couple Brasil FHD",
+    "tvlogo": "http:\/\/static.psrv.io\/logos\/canais\/powercouple.png",
+    "tvgroup": "Canais | Variedades"
   },
   {
     "id": 2,
-    "tvtitle": "Infowars Live",
-    "tvmedia": "http://infowarslive-lh.akamaihd.net/i/infowarslivestream_1@353459/index_800_av-p.m3u8",
-    "tvlogo": "http://i.imgur.com/ODIWC6n.jpg",
-    "tvname": "Infowars",
-    "tvid": "Infowars",
-    "tvgroup": "News"
+    "tvtitle": "Power Couple Brasil HD",
+    "tvmedia": "http:\/\/psrv.io:80\/live\/Felipe\/vvoYEf9UFn\/22122.m3u8",
+    "tvid": "",
+    "tvname": "Power Couple Brasil HD",
+    "tvlogo": "http:\/\/static.psrv.io\/logos\/canais\/powercouple.png",
+    "tvgroup": "Canais | Variedades"
   },
 ]
 ```
