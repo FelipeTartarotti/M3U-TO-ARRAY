@@ -1,4 +1,4 @@
-# m3u8 / m3u PHP Parser
+# M3U-TO-ARRAY
 
 ## How to use it? 
 
