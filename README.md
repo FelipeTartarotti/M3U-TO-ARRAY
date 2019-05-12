@@ -4,12 +4,12 @@
 
 - Deploy m3u-parser-simple.php to a server. (Could be hosgator or you can use Wamp for local host).
 
-- Send a GET request to this URL -> <b>http://YOURSERVER/m3u-parser-simple.php?url=http://YOURLIST.M3U</b>
+- Send a GET REQUEST to this URL-> <b>http://YOURSERVER/m3u-parser-simple.php?url=http://YOURLIST.M3U</b>
 
-- I have it already online here if you want to test -> <b> http://parser.prottar.com.br/m3u-parser-simple.php?url=http://YOURLIST.M3U </b>
+- I have it online if you want to try-> <b>http://parser.prottar.com.br/m3u-parser-simple.php?url=http://YOURLIST.M3U</b>
 
 # Result for m3u-parser-simple.php
-
+```
 JSON
 [
   {
@@ -33,6 +33,6 @@ JSON
     "tvgroup": "News"
   },
 ]
-
+```
 Good Luck =)
 
